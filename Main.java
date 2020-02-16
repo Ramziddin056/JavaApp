@@ -1,4 +1,4 @@
-public class Main {  // public final class Main {  - то этот класс не может иметь наследников из-за final ...git
+public class Main {  // public final class Main {  - то этот класс не может иметь наследников из-за final ...git1
 
     public static void main(String[] args){
 
